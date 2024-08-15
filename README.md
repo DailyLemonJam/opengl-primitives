@@ -1,2 +1,2 @@
-# opengl-primitives
+# Sphere in OpenGL
  
